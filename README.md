@@ -1,7 +1,3 @@
-# ProjetoTcc_2025_3C
-Modelo Apresentação Pré-TCC
-https://docs.google.com/presentation/d/1KGQx97bduhr8HRPHfeCdxaMAGQHo-sMY/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true
-
 # Golden Circle
 * https://www.youtube.com/watch?v=pZj0pbKW94c
 * https://www.youtube.com/watch?v=TRutBeNtTVY
@@ -17,6 +13,10 @@ https://docs.google.com/presentation/d/1KGQx97bduhr8HRPHfeCdxaMAGQHo-sMY/edit?us
 # Modelo de Storytelling - Pé na Porta
 * https://www.youtube.com/watch?v=Q3wa-tWIlUc
 * https://www.youtube.com/watch?v=Ux2LGv-SpAo
+
+# ProjetoTcc_2025_3C
+Modelo Apresentação Pré-TCC
+https://docs.google.com/presentation/d/1KGQx97bduhr8HRPHfeCdxaMAGQHo-sMY/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true
 
 # Dicas Hospedagens gratuitas
 * https://www.youtube.com/watch?v=TPXr2fkz0EM
