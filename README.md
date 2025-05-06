@@ -5,6 +5,14 @@ https://docs.google.com/presentation/d/1KGQx97bduhr8HRPHfeCdxaMAGQHo-sMY/edit?us
 # Golden Circle
 * https://www.youtube.com/watch?v=pZj0pbKW94c
 * https://www.youtube.com/watch?v=TRutBeNtTVY
+
+# Mapa de Empatia
+* https://sebrae.com.br/sites/PortalSebrae/artigos/mapa-da-empatia-ajuda-a-criar-conteudo-relevante-para-o-consumidor,ed3610dcedcc6810VgnVCM1000001b00320aRCRD#:~:text=O%20Mapa%20de%20Empatia%20%C3%A9,a%20cria%C3%A7%C3%A3o%20de%20conte%C3%BAdo%20relevante.
+
+# Jornada do Usuário:
+* Pensar desde da prospecção dos clientes com suas evidências físicas até o pós vendas, cliente adquirido
+* https://tuia.design/jornada-do-usuario-descubra-o-que-e-como-te-ajuda/
+* https://softdesign.com.br/blog/jornada-do-usuario/#h-o-que-e-jornada-do-usuario
   
 # Modelo de Storytelling - Pé na Porta
 * https://www.youtube.com/watch?v=Q3wa-tWIlUc
@@ -21,6 +29,7 @@ https://docs.google.com/presentation/d/1KGQx97bduhr8HRPHfeCdxaMAGQHo-sMY/edit?us
 
 # O que precisa ter na apresentação
 * https://docs.google.com/presentation/d/1sWcQtSiKon1Jkr9eJg1NCCcHrRGy1_b2/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true
+  
   
 
 
