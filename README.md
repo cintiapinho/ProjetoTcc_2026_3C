@@ -13,7 +13,8 @@
 # Tipos de Metologia científica
 * https://blog.mettzer.com/tipos-de-pesquisa/
 * https://didatica.tech/tipos-de-pesquisa-cientifica-exploratoria-descritiva-explicativa-experimental/
-* ### Exemplo com escopo da metodologia: https://docs.google.com/document/d/1BxdOLLTlvKQnAsFTeId7emB4kinffFQHHzpAAGq0IY8/edit?usp=sharing
+* ### Exemplo com escopo da metodologia:
+* https://docs.google.com/document/d/1BxdOLLTlvKQnAsFTeId7emB4kinffFQHHzpAAGq0IY8/edit?usp=sharing
   
 # Modelo de Storytelling - Pé na Porta
 * https://www.youtube.com/watch?v=Q3wa-tWIlUc
