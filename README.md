@@ -9,6 +9,10 @@
 * Pensar desde da prospecção dos clientes com suas evidências físicas até o pós vendas, cliente adquirido
 * https://tuia.design/jornada-do-usuario-descubra-o-que-e-como-te-ajuda/
 * https://softdesign.com.br/blog/jornada-do-usuario/#h-o-que-e-jornada-do-usuario
+
+# Tipos de Metologia científica
+* https://blog.mettzer.com/tipos-de-pesquisa/
+* https://didatica.tech/tipos-de-pesquisa-cientifica-exploratoria-descritiva-explicativa-experimental/
   
 # Modelo de Storytelling - Pé na Porta
 * https://www.youtube.com/watch?v=Q3wa-tWIlUc
