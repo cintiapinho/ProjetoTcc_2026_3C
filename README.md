@@ -13,7 +13,8 @@
 # Como elaborar Objetivos Gerais e específicos
 * https://atenaeditora.com.br/blog/como-elaborar-objetivos-gerais-e-especificos
 * http://www5.eesc.usp.br/saate/index.php/saate/Caracterizar-Estudo/2.-Objetivo-Geral
-Exemplo
+#### Exemplo Objetivos
+https://docs.google.com/document/d/1_Ws7ikSQo9j1uWaq5rlTeCJzgHqMXME6/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true
 
 # Tipos de Metologia científica
 * https://blog.mettzer.com/tipos-de-pesquisa/
