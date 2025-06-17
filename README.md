@@ -10,6 +10,11 @@
 * https://tuia.design/jornada-do-usuario-descubra-o-que-e-como-te-ajuda/
 * https://softdesign.com.br/blog/jornada-do-usuario/#h-o-que-e-jornada-do-usuario
 
+# Como elaborar Objetivos Gerais e específicos
+* https://atenaeditora.com.br/blog/como-elaborar-objetivos-gerais-e-especificos
+* http://www5.eesc.usp.br/saate/index.php/saate/Caracterizar-Estudo/2.-Objetivo-Geral
+Exemplo
+
 # Tipos de Metologia científica
 * https://blog.mettzer.com/tipos-de-pesquisa/
 * https://didatica.tech/tipos-de-pesquisa-cientifica-exploratoria-descritiva-explicativa-experimental/
