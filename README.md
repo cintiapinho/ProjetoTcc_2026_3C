@@ -21,6 +21,11 @@ https://docs.google.com/document/d/1_Ws7ikSQo9j1uWaq5rlTeCJzgHqMXME6/edit?usp=sh
 * https://didatica.tech/tipos-de-pesquisa-cientifica-exploratoria-descritiva-explicativa-experimental/
 * ### Exemplo com escopo da metodologia:
 * https://docs.google.com/document/d/1BxdOLLTlvKQnAsFTeId7emB4kinffFQHHzpAAGq0IY8/edit?usp=sharing
+
+# Definição da Persona
+* https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/PE/Anexos/Guia-pratico-para-criar-a-persona-do-seu-negocio.pdf
+
+# Diagrama de Afinidades
   
 # Modelo de Storytelling - Pé na Porta
 * https://www.youtube.com/watch?v=Q3wa-tWIlUc
