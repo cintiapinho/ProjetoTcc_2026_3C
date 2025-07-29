@@ -26,6 +26,11 @@ https://docs.google.com/document/d/1_Ws7ikSQo9j1uWaq5rlTeCJzgHqMXME6/edit?usp=sh
 * https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/PE/Anexos/Guia-pratico-para-criar-a-persona-do-seu-negocio.pdf
 
 # Diagrama de Afinidades
+* https://www.fm2s.com.br/blog/diagrama-de-afinidades#:~:text=O%20Diagrama%20de%20Afinidades%20%C3%A9,temas%20comuns%20em%20diferentes%20contextos.
+* https://www.mjvinnovation.com/pt-br/blog/diagrama-de-afinidades/
+
+  #### Exemplo consolidado com alguns temas de TCC
+  * https://docs.google.com/spreadsheets/d/1hSMHwGpcRvnq31XjXVuVQeLE4bKXKMVY/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true
   
 # Modelo de Storytelling - Pé na Porta
 * https://www.youtube.com/watch?v=Q3wa-tWIlUc
