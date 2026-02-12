@@ -44,10 +44,7 @@ https://docs.google.com/presentation/d/1KGQx97bduhr8HRPHfeCdxaMAGQHo-sMY/edit?us
 https://drive.google.com/drive/folders/1sVK6X4sL0eLZK4bvD4MFC59S1TJpt0ue?usp=sharing
 
 # Dicas Hospedagens gratuitas
-* https://www.youtube.com/watch?v=TPXr2fkz0EM
-* https://www.youtube.com/watch?v=FZiza5N6BQU
-* https://www.youtube.com/watch?v=zfAfhx0VbxQ
-* https://www.youtube.com/watch?v=Y7mGtyXURbo
+???? Ver as novas..altera o tempo todo
 
 # Como elaborar Termos de Uso e Privacidade do Sistema 
 * https://docs.google.com/document/d/1xcyEFmdOxR2F-OdNQHcy8MEmkWq5vFz-MoCBqxr7WEc/edit?usp=sharing
