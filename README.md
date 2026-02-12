@@ -8,6 +8,7 @@ Este repositório centraliza os documentos, guias e referências para o desenvol
 | Documento | Link de Acesso |
 | :--- | :--- |
 | **Manual de TCCs das ETECs (2022)** | [📥 Baixar PDF](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/18/2022/08/ManualTCCEtecs_2022_2ed.pdf) |
+| **Bases Tecnológicas** | [📥 Baixar PDF](https://drive.google.com/drive/folders/1IXxRM48Sls55yjBTJ6W5NYxdMOTX9e9f?usp=sharing) |
 
 ---
 
