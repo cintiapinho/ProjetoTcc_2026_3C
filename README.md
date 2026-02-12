@@ -40,6 +40,9 @@ https://docs.google.com/document/d/1_Ws7ikSQo9j1uWaq5rlTeCJzgHqMXME6/edit?usp=sh
 Modelo Apresentação Pré-TCC
 https://docs.google.com/presentation/d/1KGQx97bduhr8HRPHfeCdxaMAGQHo-sMY/edit?usp=sharing&ouid=110602137370820731558&rtpof=true&sd=true
 
+# Exemplo apresentações anos anteriores:
+https://drive.google.com/drive/folders/1sVK6X4sL0eLZK4bvD4MFC59S1TJpt0ue?usp=sharing
+
 # Dicas Hospedagens gratuitas
 * https://www.youtube.com/watch?v=TPXr2fkz0EM
 * https://www.youtube.com/watch?v=FZiza5N6BQU
