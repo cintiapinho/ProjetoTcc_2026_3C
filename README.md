@@ -13,7 +13,6 @@ Este repositório centraliza os documentos, guias e referências para o desenvol
 ---
 
 ## Pesquisa inicial para escolher o tema do TCC - Template - roteiro a seguir:
-* Segue link do template: 
 * [Link do Template](https://docs.google.com/document/d/1bPdPfU8yXZviOgeojRz3Z21Sb3I_GOVOleL7Mj6foEI/edit?usp=sharing)
 
 ## 🛠️ Metodologias e Ferramentas de Design
